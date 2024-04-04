@@ -5,3 +5,5 @@ El proyecto consiste de 2 partes, un frontend que es el dashboard para desarroll
 [Frontend - Dashboard](https://github.com/doge-talentland/ticketing-app)
 
 [Backend - API](https://github.com/doge-talentland/ticketing-api)
+
+[Documentación](https://juanluisfg.notion.site/7f8f73aed112453b8433d8157513f593?v=a82a1485390d4da9ad6c5bee32c542c9&pvs=4)
